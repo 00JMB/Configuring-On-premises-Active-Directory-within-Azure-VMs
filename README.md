@@ -1,1 +1,1 @@
-# Configuring-On-premises-Active-Directory-within-Azure-VMs
+# On-premises Active Directory Deployed in the Cloud (Azure)
